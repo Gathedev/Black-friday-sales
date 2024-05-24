@@ -1,2 +1,2 @@
 # Black-friday-sales
-We used the black Friday sale dataset to create a model to predict the sale of various products this year. Firstly, we performed data cleaning, analysis and visualization followed by implementing multiple Regression algorithm to find best fit model.
+In this project, we utilized the black friday sale data from last year to create a predictive model for forecasting this year’s sales. Initially, we performed data cleaning, analysis, and visualization to prepare the dataset. We then implemented multiple regression algorithms, named, Linear Regression, Decision tree Regression, Random Forest Regression, and KNN Regression, to determine the best-fit model for accurate sales prediction.
